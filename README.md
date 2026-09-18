@@ -33,28 +33,6 @@ This dissertation develops and validates a unified AI/ML framework—combining s
     [Pole Disambiguation]                 (vLLM + Literature RAG)
 ```
 
----
-
-## Research Plan (Three-Paper Structure)
-
-### Paper 1 (Basis for Fall Proposal Defense)
-* **Title:** *A Shared AI/ML Framework for Automated Ranging and Microstructure Screening in APT and ToF-SIMS*
-* **Scope & Objectives:**
-  * Establishes the common two-modality representation and staged framework shared by APT and ToF-SIMS.
-  * Documents the manual baseline and its failure modes on real LAMDA APT data (reconstruction ambiguity, molecular-ion overlap).
-  * Defines the FAIR transcoding layer for vendor formats (`POS`/`RNG`/`RRNG` for APT; `ITA`/`ITM`/`ITS` via `pySPM` for ToF-SIMS).
-
-### Paper 2 (Year 2)
-* **Title:** *Automated Multimodal Ranging and Reconstruction via ML-ToF/Bayesian Peak Assignment and Learned Pole Indexing*
-* **Scope & Objectives:**
-  * Implements 1D CNN/Transformer spectral encoders for ranging and CNN/GNN spatial encoders for cluster and phase detection.
-  * Resolves BCC-vs-FCC pole-indexing ambiguity and molecular-ion overlap identified in Paper 1.
-
-### Paper 3 (Year 3)
-* **Title:** *LLM-Driven Reporting and Literature-Grounded Interpretation for Correlative APT–ToF-SIMS Characterization*
-* **Scope & Objectives:**
-  * Integrates fused spectral/spatial embeddings into an LLM + literature Retrieval-Augmented Generation (RAG) reporting layer.
-  * Validates automated reports against expert-authored reports and benchmarks the deployed `vLLM` pipeline (`ornl-qwen3-8-27b`).
 
 ### Compilation Command
 
