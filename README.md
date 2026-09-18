@@ -7,7 +7,7 @@ LaTeX source and project outline for the PhD dissertation proposal on a shared, 
 
 ## Overview
 
-This dissertation develops and validates a unified AI/ML framework—combining spectral encoders, spatial encoders, cross-attention fusion, and a domain-specific LLM layer—to eliminate manual bottlenecks in nanoscale characterization. The system automates peak ranging, reconstruction disambiguation, pole-line indexing, and scientific reporting across both APT and ToF-SIMS data formats.
+This dissertation develops and validates a unified AI/ML framework to eliminate manual bottlenecks in nanoscale characterization. The system automates peak ranging, reconstruction disambiguation, pole-line indexing, and scientific reporting across both APT and ToF-SIMS data formats.
 
 ```
        +-------------------+       +-------------------+
