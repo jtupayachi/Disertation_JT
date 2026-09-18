@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1789753147.09795 "/home/jose/Disertation_JT/dissertation_one_pager.tex" "dissertation_one_pager.pdf" "dissertation_one_pager" 1789753148.61223 0
+["pdflatex"] 1789753227.9364 "/home/jose/Disertation_JT/dissertation_one_pager.tex" "dissertation_one_pager.pdf" "dissertation_one_pager" 1789753229.45338 0
   "/etc/texmf/web2c/texmf.cnf" 1772814820.10711 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/jose/Disertation_JT/dissertation_one_pager.tex" 1789753146.47711 6223 f8a5cd176be40115deaaec7fb49f501b ""
+  "/home/jose/Disertation_JT/dissertation_one_pager.tex" 1789753227.33515 6227 19126cba52f3568571d355cdae53a08e ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm" 1136768653 1536 c4f439db76ef96a9c53bc437f35ffe20 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -84,9 +84,9 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1772814836.56836 5349216 bf3a80e68d946c7acd95ff030fd9bb63 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1772814929 6831085 a7f562a53d2260532b1562c064b3297a ""
   "Main.png" 1789751812.61313 1314881 7251dcdae7bda6e4314bbd32680cae32 ""
-  "dissertation_one_pager.aux" 1789753148.50118 1477 1819bfb7da9e69822bd431275866ce0d "pdflatex"
-  "dissertation_one_pager.out" 1789753148.50118 3119 07774a4283a09e6f5da56ef806e8fb1e "pdflatex"
-  "dissertation_one_pager.tex" 1789753146.47711 6223 f8a5cd176be40115deaaec7fb49f501b ""
+  "dissertation_one_pager.aux" 1789753229.33992 1477 1819bfb7da9e69822bd431275866ce0d "pdflatex"
+  "dissertation_one_pager.out" 1789753229.33992 3119 07774a4283a09e6f5da56ef806e8fb1e "pdflatex"
+  "dissertation_one_pager.tex" 1789753227.33515 6227 19126cba52f3568571d355cdae53a08e ""
   (generated)
   "dissertation_one_pager.aux"
   "dissertation_one_pager.log"

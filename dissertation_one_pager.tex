@@ -62,7 +62,9 @@ This dissertation develops and validates a shared multimodal machine-learning fr
 
 \section{Background \& Motivation}
 
-APT datasets encode two complementary, modalities: a mass spectrum requiring element/molecular-ion \emph{ranging}, and a reconstructed 3D atom map from which precipitates, boundaries, clusters, and CSRO/CMRO are extracted. Both steps are manual, expertise-dependent, and scale poorly on APT datasets. A demonstrated LAMDA workflow on real data confirms concrete bottlenecks: SEM-coregistered tip-profile calibration, reconstruction parameterization, pole-line indexing returning ambiguous BCC/FCC candidates, and RNG/RRNG ranging of overlapping molecular ions (e.g., Fe/Cr/Ni/Mo oxides and carbides). On the other hand, ToF-SIMS shares the same two-modality structure (spectrum + spatial ion image and accesible via pySPM). This motivates one shared AI/ML framework differing only in instrument-specific ingestion.
+APT datasets encode two complementary, modalities: a mass spectrum requiring element/molecular-ion \emph{ranging}, and a reconstructed 3D atom map from which precipitates, boundaries, clusters, and CSRO/CMRO are extracted. \\
+
+Both steps are manual, expertise-dependent, and scale poorly on APT datasets. A demonstrated LAMDA workflow on real data confirms concrete bottlenecks: SEM-coregistered tip-profile calibration, reconstruction parameterization, pole-line indexing returning ambiguous BCC/FCC candidates, and RNG/RRNG ranging of overlapping molecular ions (e.g., Fe/Cr/Ni/Mo oxides and carbides). On the other hand, ToF-SIMS shares the same two-modality structure (spectrum + spatial ion image and accesible via pySPM). This motivates one shared AI/ML framework differing only in instrument-specific ingestion.
 
 \begin{center}
     \includegraphics[width=\linewidth]{Main.png}
